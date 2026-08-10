@@ -1,0 +1,6 @@
+config.json
+*.pkl
+batch_results.json
+sync.log
+__pycache__/
+*.pyc
