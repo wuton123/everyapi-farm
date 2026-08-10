@@ -1,0 +1,13 @@
+{
+  "YC_KEY": "51db11dd89be4db71f1094be2cc20d647d14913a134978",
+  "TS_KEY": "0x4AAAAAADuU517TuIA9w9sb",
+  "EVERY_API": "https://app.everyapi.ai",
+  "MAIL_API": "https://api.mail.tm",
+  "PASS": "EveryTest2026!x",
+  "GROUPS": ["grp_M3K-NEhOUc", "grp_VOEupd841K", "grp_ZLgC-rOo2v", "grp_vNuaE45CEx"],
+  "FENGXI_DB": "C:\\\\newapi\\\\one-api.db",
+  "ACCOUNTS": [
+    ["userbmpbu60x", "EveryTest2026!x", "926号"],
+    ["userqaj23y1v", "EveryTest2026!x", "923号"]
+  ]
+}
